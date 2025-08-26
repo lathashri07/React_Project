@@ -2,12 +2,17 @@ This repository contains a collection of simple and interactive React projects b
 
 ## Projects Included:
 
-🃏 Card – Basic card component design
-🎨 Color Picker – Pick and apply colors dynamically
-🔢 Counter – Increment, decrement, and reset counter
-⏰ Digital Clock – Real-time digital clock display
-⏱ StopWatch – Start, stop, and reset stopwatch
-📝 To-Do List – Add, manage, and delete tasks
+🃏 Card – Basic card component design.
+
+🎨 Color Picker – Pick and apply colors dynamically.
+
+🔢 Counter – Increment, decrement, and reset counter.
+
+⏰ Digital Clock – Real-time digital clock display.
+
+⏱ StopWatch – Start, stop, and reset stopwatch.
+
+📝 To-Do List – Add, manage, and delete tasks.
 
 ## Purpose:
 

@@ -31,9 +31,7 @@ package.json
 index.html
 vite.config.js
 README.md
-App.jsx
 main.jsx
-index.css
 App.css
 assets/
 public/

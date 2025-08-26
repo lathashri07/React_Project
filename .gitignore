@@ -30,7 +30,6 @@ package-lock.json
 package.json
 index.html
 vite.config.js
-README.md
 main.jsx
 App.css
 assets/
